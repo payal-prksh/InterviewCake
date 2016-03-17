@@ -3,4 +3,4 @@ Write a function getProductsOfAllIntsExceptAtIndex() that takes an array of inte
 
 We can do this in O(n)O(n) time and O(n)O(n) space!
 
-We only need to allocate one new array of size nn.
+We only need to allocate one new array of size n.
