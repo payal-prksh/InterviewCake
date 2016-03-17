@@ -1,7 +1,6 @@
 
 Link: https://www.interviewcake.com/question/java/stock-price
 
-Writing programming interview questions hasn't made me rich. Maybe trading Apple stocks will.
 Suppose we could access yesterday's stock prices as an array, where:
 
 The indices are the time in minutes past trade opening time, which was 9:30am local time.
